@@ -1,8 +1,67 @@
+<h2>Morgan Pritchard</h2>
+
+<p>Hello World!</p>
+
+<h3>Tech Stacks</h4>
+<div>
+  <p>MEAN - Docker/Mongo - </p>
+</div>
+
+<h3>Programming Languages</h3>
+<table align="left">
+  <tr>
+    <td align="center" width=100>
+      <img src="https://skillicons.dev/icons?i=swift" />
+      <br/>
+      <p>Swift</p>
+    </td>
+    <td align="center" width=100>
+      <img src="https://skillicons.dev/icons?i=html" />
+      <br/>
+      <p>HTML</p>
+    </td>
+    <td align="center" width=100>
+      <img src="https://skillicons.dev/icons?i=css" />
+      <br/>
+      <p>CSS</p>
+    </td>
+    <td align="center" width=100>
+      <img src="https://skillicons.dev/icons?i=js" />
+      <br/>
+      <p>Javascript</p>
+    </td>
+    <td align="center" width=100>
+      <img src="https://skillicons.dev/icons?i=kotlin" />
+      <br/>
+      <p>Kotlin</p>
+    </td>
+    <td align="center" width=100>
+      <img src="https://skillicons.dev/icons?i=py" />
+      <br/>
+      <p>Python</p>
+    </td>
+  </tr>
+</table>
+
+
+
+
+
+
+
+
+<!--
 <div>
   <h2>Hi, I'm Morgan Pritchard</h2>
+  <p>Full Stack Developer in Goodland, Kansas</p>
+  
+  <p>UI/UX Designer, Front and Backend Developer, Part 107 sUAS Drone Pilot, Photographer || App Development & Emerging Technologies Instructor @ NWKTC</p>
 </div>
-<p> App Development & Emerging Technologies Instructor @ NWKTC </p>
+
+
 <p>🌎 Goodland, Kansas</p>
+
+<h2>Stacks</h2>
 
 <h2>Languages</h2>
 <table align="center">
