@@ -1,13 +1,12 @@
-<h2>Morgan Pritchard</h2>
+<h2>Hi, I'm Morgan Pritchard 👋</h2>
+<h3>📖About Me</h3>
+<ul>
+  <li>🌎 Goodland, Kansas</li>
+  <li>💻 I'm a Full Stack Developer</li>
+  <li>🎨 UI Designer</li>
+</ul>
 
-<p>Hello World!</p>
-
-<h3>Tech Stacks</h4>
-<div>
-  <p>MEAN - Docker/Mongo - </p>
-</div>
-
-<h3>Programming Languages</h3>
+<h3>Languages and Tools</h3>
 <table align="left">
   <tr>
     <td align="center" width=100>
@@ -26,9 +25,9 @@
       <p>CSS</p>
     </td>
     <td align="center" width=100>
-      <img src="https://skillicons.dev/icons?i=js" />
+      <img src="https://skillicons.dev/icons?i=js,nodejs" />
       <br/>
-      <p>Javascript</p>
+      <p>Javascript/NodeJS</p>
     </td>
     <td align="center" width=100>
       <img src="https://skillicons.dev/icons?i=kotlin" />
@@ -40,17 +39,49 @@
       <br/>
       <p>Python</p>
     </td>
+    <td align="center" width=100>
+      <img src="https://skillicons.dev/icons?i=vscode" />
+      <br/>
+      <p>Visual Studio Code</p>
+    </td>
+    <td align="center" width=100>
+      <img src="https://skillicons.dev/icons?i=figma" />
+      <br/>
+      <p>Figma</p>
+    </td>
+     <td align="center" width=100>
+      <img src="https://skillicons.dev/icons?i=firebase" />
+      <br/>
+      <p>Firebase</p>
+    </td>
+    <td align="center" width=100>
+      <img src="https://skillicons.dev/icons?i=git,github" />
+      <br/>
+      <p>Git/Github</p>
+    </td>
   </tr>
 </table>
 
-
-
-
-
-
-
-
 <!--
+<h2>Morgan Pritchard</h2>
+
+<p>Hello World!</p>
+
+<h3>Tech Stacks</h4>
+<div>
+  <p>MEAN - Docker/Mongo - </p>
+</div>
+
+<h3>Programming Languages</h3>
+
+
+
+
+
+
+
+
+
 <div>
   <h2>Hi, I'm Morgan Pritchard</h2>
   <p>Full Stack Developer in Goodland, Kansas</p>
