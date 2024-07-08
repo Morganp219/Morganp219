@@ -5,7 +5,7 @@
   <li>💻 I'm a Full Stack Developer</li>
   <li>🎨 UI Designer</li>
 </ul>
-
+<!--
 <h3>Languages and Tools</h3>
 <table align="left">
   <tr>
