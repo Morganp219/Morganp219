@@ -1,11 +1,41 @@
-<h2>Hi, I'm Morgan Pritchard 👋</h2>
-<h3>📖About Me</h3>
-<ul>
-  <li>🌎 Goodland, Kansas</li>
-  <li>💻 I'm a Full Stack Developer</li>
-  <li>🎨 UI Designer</li>
-</ul>
+# Hi there, I'm Morganp219 👋
+
+## About Me
+I am a passionate full-stack developer specializing in **MEAN (MongoDB, Express, Angular, Node.js)** and **MERN (MongoDB, Express, React, Node.js)** applications. I hold a **Swift Associate Certificate** and enjoy working with **Node.js**, **TypeScript**, and **Swift**. My expertise also includes Android development and proficient use of **Git** and **GitHub** for version control. I currently work at Fort Hays Tech | Northwest in the App Development
+
+## Skills
+### Languages
+![JavaScript](https://skillicons.dev/icons?i=javascript)
+![TypeScript](https://skillicons.dev/icons?i=typescript)
+![Swift](https://skillicons.dev/icons?i=swift)
+
+### Frameworks and Libraries
+![React](https://skillicons.dev/icons?i=react)
+![Angular](https://skillicons.dev/icons?i=angular)
+![Node.js](https://skillicons.dev/icons?i=nodejs)
+
+### Tools
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
+
+### Mobile Development
+![Android](https://skillicons.dev/icons?i=kotlin)
+![Swift](https://skillicons.dev/icons?i=swift)
+
+## Projects
+Here are a few projects I've worked on:
+- **[Topside Tipoff]([#](https://topsidetipoff.com)):** Worked with first year students to create the Topside Tipoff iOS & Website
+
+## Certifications
+- **Swift Associate Certificate**
 <!--
+## Contact
+- **Email:** [your.email@example.com](mailto:your.email@example.com)  
+- **LinkedIn:** [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/your-profile)  
+- **GitHub:** [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/Morganp219)  
+
+
+
 <h3>Languages and Tools</h3>
 <table align="left">
   <tr>
