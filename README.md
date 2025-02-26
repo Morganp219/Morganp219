@@ -1,4 +1,4 @@
-# Hi there, I'm Morganp219 👋
+# Hi there, I'm Morgan Pritchard 👋
 
 ## About Me
 I am a passionate full-stack developer specializing in **MEAN (MongoDB, Express, Angular, Node.js)** and **MERN (MongoDB, Express, React, Node.js)** applications. I hold a **Swift Associate Certificate** and enjoy working with **Node.js**, **TypeScript**, and **Swift**. My expertise also includes Android development and proficient use of **Git** and **GitHub** for version control. I currently work as an Instructor at Fort Hays Tech | Northwest in the App Development & Emerging Technologies
@@ -24,14 +24,19 @@ I am a passionate full-stack developer specializing in **MEAN (MongoDB, Express,
 
 ## Projects
 Here are a few projects I've worked on:
-- **[Topside Tipoff]([#](https://topsidetipoff.com)):** Worked with first year students to create the Topside Tipoff iOS & Website
+- **[Topside Tipoff]([#](https://topsidetipoff.com)):** Worked with first-year students to create the Topside Tipoff iOS & Website
+- **App Development Attendance System** Designed and implemented a custom solution for tracking attendance for the App Development & Emerging Technologies Program at FHNW
 
 ## Certifications
 - **Swift Associate Certificate**
+- **Swift Certified User**
+
+## Contact
+- **LinkedIn:** [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/morgan-pritchard219/)
+
 <!--
 ## Contact
 - **Email:** [your.email@example.com](mailto:your.email@example.com)  
-- **LinkedIn:** [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/your-profile)  
 - **GitHub:** [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/Morganp219)  
 
 
