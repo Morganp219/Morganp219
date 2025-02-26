@@ -49,4 +49,4 @@ Here are a few projects I've worked on:
 - **Swift Certified User**
 
 ## Contact
-- **LinkedIn:** [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/morgan-pritchard219/)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/morgan-pritchard219/)
