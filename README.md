@@ -1,7 +1,7 @@
 # Hi there, I'm Morgan Pritchard 👋
 
 ## About Me
-I am a passionate full-stack developer specializing in **MEAN (MongoDB, Express, Angular, Node.js)** and **MERN (MongoDB, Express, React, Node.js)** applications. I hold a **Swift Associate Certificate** and enjoy working with **Node.js**, **TypeScript**, and **Swift**. My expertise also includes Android development and proficient use of **Git** and **GitHub** for version control. I currently work as an Instructor at Fort Hays Tech | Northwest in the App Development & Emerging Technologies Program
+I am a passionate full-stack developer specializing in **MEAN (MongoDB, Express, Angular, Node.js)** and **MERN (MongoDB, Express, React, Node.js)** applications. I hold a **Swift Certified User Certificate** and enjoy working with **Node.js**, **TypeScript**, and **Swift**. My expertise includes Android development and proficient use of **Git** and **GitHub** for version control. I currently work as an Instructor at Fort Hays Tech | Northwest in the App Development & Emerging Technologies Program
 
 ## Skills
 
