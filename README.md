@@ -42,6 +42,7 @@ I am a passionate full-stack developer specializing in **MEAN (MongoDB, Express,
 ## Projects
 Here are a few projects I've worked on:
 - **[Topside Tipoff]([#](https://topsidetipoff.com)):** Worked with first-year students to create the Topside Tipoff iOS & Website
+- **[Trego County Sheriff's Office]([#]([https://topsidetipoff.com](https://www.tregocosheriff.com/))):** Worked with first-year & second-year students to design, plan and build the Trego County Sheriff's Website in Next.JS
 - **App Development Attendance System** Designed and implemented a custom solution for tracking attendance for the App Development & Emerging Technologies Program at FHNW
 
 ## Certifications
